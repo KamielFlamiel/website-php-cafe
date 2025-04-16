@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <img class="logo-img" src="img/image.png" alt="">
+            </div>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="menu.html">Menu</a></li>
+                    <li><a href="#about">About us</a></li>
+                    <li><a href="#jobs">Jobs</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="header-container2">
+            <div class="login-bar">
+                <button class="locatie-container">
+                    <h1 class="locatie-text">Bezoek onze locatie's</h1>
+                </button>
+                <button class="login-container">
+                    <h1 class="login-text">Login</h1>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="main-container">
+            <div class="intro-container">
+                <div class="intro-text-container">
+                    <h1 class="intro-text-head">Sigma Cafe</h1>
+                    <h2 class="intro-text-sub">Welkom bij Sigma Cafe <br> Een cafe voor sigma's</h2>
+                </div>
+                <div class="intro-img-container">
+                    <img class="intro-img" src="img/interior.png" alt="">
+            </div>
+           
+            
+        </div>
+        <div class="locatie-img-container">
+            <img class="locatie-img" src="img/map1.png" alt="">
+            <img class="locatie-img" src="img/map2.png" alt="">
+            <img class="locatie-img" src="img/map3.png" alt="">
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-container">
+            <div class="social-container">
+                <img class="social-img" src="img/white-instagram-icon-png-2-3886470481.png" alt="">
+                <img class="social-img" src="img/white-facebook-icon-png-29-3425628924.png" alt="">
+                <img class="social-img" src="img/395125-328232108.png" alt="">
+                <img class="social-img" src="img/twitter-x-logo-png-9-1207032165.png" alt="">
+            </div>
+        </div>
+    </footer>
+
+
+
+</body>
+
+</html>
